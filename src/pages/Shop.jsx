@@ -52,7 +52,7 @@ export default function Shop() {
         </div>
 
         <h3 className="forM"> Perfumes for Men</h3>
-        <div div className="moon">
+        <div className="moon">
           <div className="card">
             <img src="/m.jpg" alt="" />
             <h3>Bleu DE Chanel</h3>
