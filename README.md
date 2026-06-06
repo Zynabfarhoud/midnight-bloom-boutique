@@ -9,4 +9,5 @@ A responsive React.js e-commerce frontend application for a luxury perfume bouti
 1. Open the repository on GitHub.
 2. Click the green "<> Code" button and select "Download ZIP".
 3. Extract the folder on your computer.
-4. Run `npm install´ and `npm start` to launch the local project environment.
+4. Run `npm install` and `npm start` to launch the local project environment.
+5. View Midnightbloom boutique live: https://midnightbloom-boutique.netlify.app/
