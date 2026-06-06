@@ -115,6 +115,7 @@ nav a {
   text-decoration-thickness: 3px;
   font-size: 30px;
   font-style: italic;
+  width: 100%;
 }
 
 .moon {
@@ -122,6 +123,7 @@ nav a {
   justify-content: center;
   gap: 30px;
   flex-wrap: wrap;
+  width: 100%;
   margin-top: 20px;
   align-items: start;
 }
@@ -195,6 +197,7 @@ nav a {
   text-decoration-thickness: 3px;
   font-size: 30px;
   font-style: oblique;
+  width: 100%;
 }
 
 .Con {
