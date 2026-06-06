@@ -106,6 +106,8 @@ nav a {
 }
 
 .ForW {
+  display: block;
+  clear: both;
   color: lightsalmon;
   margin-top: 50px;
   text-decoration: underline;
@@ -184,6 +186,8 @@ nav a {
 }
 
 .forM {
+  display: block;
+  clear: both;
   color: lightcoral;
   margin-top: 50px;
   text-decoration: underline;
